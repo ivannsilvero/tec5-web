@@ -1,7 +1,5 @@
 ## TEC 5 - Frontend - Cuaderno de comunicaciones
 
-Frontend hecho en Vue 3 con Vuex, Vue Router y Typescript
+El frontend del cuaderno de comunicaciones de la EESTN5, hecho con Vue 3 
 
-x-special/nautilus-clipboard
-copy
-file:///home/ivan/Pictures/vuejs.xcf
+![vuejs](https://user-images.githubusercontent.com/63746055/97005269-98156400-1514-11eb-9d6d-5fe4a57365c1.jpg)
