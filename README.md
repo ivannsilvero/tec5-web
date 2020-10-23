@@ -1,4 +1,4 @@
-## TEC 5 - Frontend - Cuaderno de comunicaciones
+## TEC 5 - Cuaderno de comunicaciones (Frontend)
 
 El frontend del cuaderno de comunicaciones de la EESTN5, hecho con Vue 3 
 
